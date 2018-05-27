@@ -1,0 +1,10 @@
+This is not my creation. The credit goes to krkeegan with the original plans.
+I have tweaked some of the setting to allow for better clearance. I took the 
+basic measurements and created the Onshape file here:
+https://cad.onshape.com/documents/5d8d5ee4ecd4fb2b4bb9f06c/w/19e19b972df41ab13acc8659/e/8f5600b11b3cf655bce19992
+I also have included all of the files so that you can pick up anywhere in the
+project. 
+Settings: 0.25in router bit, clearance is .15 in, and step down is .12 in. Obviously measurement are in
+inches. The wood is set at a .448 in thickness. I recommend using thicker wood and sanding it to fit. I used
+wood glue to bond it and brad nails to secure it. I also cut grooves in mine to hold the rubber band. 
+Enjoy! 
